@@ -2,16 +2,14 @@ html {
   /* Everything in here will target the HTML element */
   background-color: #f2f1ed;
   font-family: 'Patua One', cursive;
-}
-
-html {
   font-family: Georgia, serif;
   line-height: 1.5;
 }
+
 img {
   width: 100%;
 }
-h1, h2{
+h1, h2 {
   text-transform: uppercase;
   color: #5d8432;
   font-family: 'Patua One', cursive;
