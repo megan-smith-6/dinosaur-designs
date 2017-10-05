@@ -21,4 +21,9 @@ p {
 }
 a {
   font-size: 1.125rem;
+  color: #793284;
+}
+
+a:hover {
+  color: #b42885;
 }
