@@ -9,16 +9,19 @@ html {
 img {
   width: 100%;
 }
+
 h1, h2 {
   text-transform: uppercase;
   color: #5d8432;
   font-family: 'Patua One', cursive;
 }
+
 figcaption {
   font-style: italic;
   text-align: center;
   font-size: 1rem;
 }
+
 a {
   font-size: 1.125rem;
   color: #793284;
