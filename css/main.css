@@ -16,7 +16,7 @@ h1, h2{
   color: #5d8432;
   font-family: 'Patua One', cursive;
 }
-p {
+figcaption {
   font-style: italic;
   text-align: center;
   font-size: 1rem;
