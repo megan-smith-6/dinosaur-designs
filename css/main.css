@@ -1,6 +1,7 @@
 html {
   /* Everything in here will target the HTML element */
   background-color: #f2f1ed;
+  font-family: 'Patua One', cursive;
 }
 
 html {
@@ -13,6 +14,7 @@ img {
 h1, h2{
   text-transform: uppercase;
   color: #5d8432;
+  font-family: 'Patua One', cursive;
 }
 p {
   font-style: italic;
@@ -22,6 +24,7 @@ p {
 a {
   font-size: 1.125rem;
   color: #793284;
+  font-family: 'Patua One', cursive;
 }
 
 a:hover {
